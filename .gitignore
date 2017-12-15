@@ -1,7 +1,12 @@
 *.pyc
 *~
 __pycache__
-haskelldev
+Include
+Lib
+Scripts
+venv
+pip-selfcheck.json
+pyvenv.cfg
 db.sqlite3
 /static
 .DS_Store
